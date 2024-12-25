@@ -1,3 +1,8 @@
+
+
+
+
+
 Flatmates_Bills_project:
 Step 1: Create virtual environment for Flatmate Bill project - DONE
 Step 2: Writing the problem and description in a paper or txt file - DONE 
